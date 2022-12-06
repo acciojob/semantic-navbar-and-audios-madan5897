@@ -35,3 +35,7 @@ div{
 h2{
     color: cadetblue;
 }
+.audio-links{
+   display: list-item;
+   padding: 10px;
+}
